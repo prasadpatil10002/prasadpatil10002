@@ -25,6 +25,6 @@
 
 📧 Email: prasadpatil10002@gmail.com
 
-🐦 Twitter: @Prasad_Patil_17
+🐦 X : @Prasad_Patil_17
 
 💼 LinkedIn: https://www.linkedin.com/in/prasad-patil-pp17/ 
