@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hi, I'm Prasad Patil!
+🚀 Full Stack Developer | AI Enthusiast | Tech Enthusiast
 
-<!--
-**prasadpatil10002/prasadpatil10002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 About Me
+🎓 B.Sc. Computer Science from Fergusson College, Pune
 
-Here are some ideas to get you started:
+💻 Passionate about MERN Stack, Python, and AI-driven applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Experience in React, Django, Flask, PostgreSQL, and Node.js
+
+🧠 Learning Machine Learning, NLP, and AI-driven applications
+
+🇩🇪 Currently learning German (A2 Level)
+
+🔹 My Projects
+📌 Forum College Hub (FC HUB) – A discussion platform with AI chatbot
+
+🔹 Tech Stack
+🚀 Frontend: React.js, Tailwind CSS, Redux
+⚙️ Backend: Django, Flask, Node.js, Express
+🗄️ Database: PostgreSQL, MongoDB
+🧠 AI & ML: PyTorch, NLTK, OpenAI GPT models
+
+🔹 Let's Connect!
+📧 Email: prasadpatil10002@gmail.com
+🐦 Twitter: @Prasad_Patil_17
+💼 LinkedIn: https://www.linkedin.com/in/prasad-patil-pp17/ 
